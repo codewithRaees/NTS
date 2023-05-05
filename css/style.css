@@ -205,7 +205,7 @@ box-shadow: 5px 5px 8px #888;
     100% { -webkit-transform: translate(0, -100%); }
   }
  .fullwidth_backgroung{
-    background-image: url("/NTSClone/css/images/NTS_BG_Build.jpg");
+    background-image: url("/NTS/images/NTS_BG_Build.jpg");
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment:  fixed !important;
