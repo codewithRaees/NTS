@@ -209,7 +209,7 @@ box-shadow: 5px 5px 8px #888;
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment:  fixed !important;
-    block-size: cover;
+   
  }
  .our_product_section{
     color: #fff;
@@ -241,9 +241,9 @@ box-shadow: 5px 5px 8px #888;
     margin-left: 0.5px;
  }
  .submenu li:nth-child(1){
-    background-color: #57c6cf;
+    background-color: #57c6cf !important;
     border-top-color: #57c6cf;
-    color: #000;
+    color: #fff !important;
  }
  .submenu li:nth-child(2){
     background-color: #b1b926;
@@ -444,6 +444,7 @@ h3 {
 .about-us-link:hover{
     background-color: #18bb7c;
     transition: 0.5s ease-in-out;
+    
 }
 .fa-angle-right{
     margin-left: 5px;
